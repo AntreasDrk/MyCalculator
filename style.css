@@ -30,7 +30,7 @@ body {
   width: 100%; /* Full width */
   background-color: rgba(7, 11, 32, 0.7);
   border-radius: 10px 10px 0 0; /* Rounded corners at the top */
-  color: white;
+  color: rgb(139, 134, 134);
 
   /* Centering the text in the bottom-right corner */
   display: flex;
